@@ -1,0 +1,16 @@
+{
+  "user_id": "1b3632d8-c864-4e3e-b98b-03db19303ac3",
+  "created_at": "2025-07-15T21:50:58.778191",
+  "last_active": "2025-07-15T21:51:05.645151",
+  "preferences": {},
+  "history": [
+    {
+      "timestamp": "2025-07-15T21:51:05.645151",
+      "content": {
+        "user_input": "在bilibili上，看老番茄第1个视频，并点赞",
+        "timestamp": "2025-07-15T21:51:05.644151"
+      }
+    }
+  ],
+  "username": "auto_created_user"
+}

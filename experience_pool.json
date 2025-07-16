@@ -1,0 +1,28 @@
+{
+  "experiences": [
+    {
+      "query": "打开bilibili给老番茄的第2个视频点赞",
+      "log_path": "D:\\GUIAgent\\task_logs_new\\20250713_201503"
+    },
+    {
+      "query": "给6166516161打电话",
+      "log_path": "D:\\GUIAgent\\task_logs_new\\20250713_202138"
+    },
+    {
+      "query": "打开应用宝搜索抖音",
+      "log_path": "D:\\GUIAgent\\task_logs_new\\20250713_202634"
+    },
+    {
+      "query": "给111111打电话",
+      "log_path": "D:\\GUIAgent\\task_logs_new\\20250714_121016"
+    },
+    {
+      "query": "打开bilibili看李子柒的第二个视频并点赞",
+      "log_path": "./task_logs_new\\20250714_122540"
+    },
+    {
+      "query": "我想要在bilibili上看李子柒的第1个视频，并且进行点赞",
+      "log_path": "./task_logs_new\\20250714_132613"
+    }
+  ]
+}
